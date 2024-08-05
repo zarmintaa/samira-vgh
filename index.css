@@ -38,10 +38,10 @@ button .color-samira :hover {
     box-shadow: 0 0 0 0 rgb(74, 255, 74, 0.7), 0 0 0 0 rgba(74, 255, 74, 0.7);
   }
   40% {
-    box-shadow: 0 0 0 20px rgb(255, 109, 74, 0), 0 0 0 0 rgb(74, 255, 74, 0.7);
+    box-shadow: 0 0 0 10px rgb(255, 109, 74, 0), 0 0 0 0 rgb(74, 255, 74, 0.7);
   }
   80% {
-    box-shadow: 0 0 0 30px rgb(255, 109, 74, 0), 0 0 0 30px rgb(255, 109, 74, 0);
+    box-shadow: 0 0 0 20px rgb(255, 109, 74, 0), 0 0 0 20px rgb(255, 109, 74, 0);
   }
   100% {
     box-shadow: 0 0 0 0 rgb(255, 109, 74, 0), 0 0 0 30px rgb(255, 109, 74, 0);
